@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+xgboost
+joblib
+librosa
+soundfile
+scipy
+matplotlib
+plotly
+tensorflow
+Flask
+werkzeug
+lightgbm
+streamlit
+praat-parselmouth
